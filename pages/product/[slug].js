@@ -42,7 +42,7 @@ export default function ProductScreen() {
             alt={product.name}
             width={640}
             height={640}
-            layout="responsive"
+            Layout="responsive"
           ></Image>
         </div>
         <div>
